@@ -1,0 +1,9 @@
+streamlit
+sounddevice
+numpy
+scipy
+transformers
+torch>=2.0.1
+torchaudio
+pyttsx3
+ffmpeg-python
